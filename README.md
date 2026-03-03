@@ -1,3 +1,11 @@
+# My 2nd comma Controls Challenge Submission
+
+Final Score: **17.789**
+
+Technique: MPC. The rest is a secret 😊. My [original submission](https://github.com/tfpgh/controls_challenge) (with a full writeup) is 90% of the way there.
+
+Harald, it's basically everything we talked about. NumPy sampling (inverse CDF) of the physics model probabilities turns out not to be that sensitive to slight differences between the GPU and CPU.
+
 <div align="center">
 <h1>comma Controls Challenge v2</h1>
 
