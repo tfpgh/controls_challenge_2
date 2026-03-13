@@ -1,6 +1,6 @@
 # My 2nd comma Controls Challenge Submission
 
-Final Score: **17.789**
+Final Score: **17.791**
 
 Technique: MPC. The rest is a secret 😊. My [original submission](https://github.com/tfpgh/controls_challenge) (with a full writeup) is 90% of the way there.
 
